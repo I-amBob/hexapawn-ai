@@ -1,0 +1,130 @@
+Welcome to the Chess AI
+#######################
+Do you know the rules?(y/n)
+:
+Let's Start!
+Current Situation: s210
+green
+Current Situation: s440
+red
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s412
+red
+Current Situation: 4
+Did I win? (y/n)
+: n
+Current Situation: s220
+blue
+Current Situation: s480
+green
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s470
+green
+Current Situation: 4
+Did I win? (y/n)
+: n
+Current Situation: s210
+green
+Current Situation: s440
+red
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s480
+green
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s210
+purple
+Current Situation: 4
+Did I win? (y/n)
+: n
+Current Situation: s210
+green
+Current Situation: s440
+red
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s412
+purple
+Current Situation: s690
+purple
+Did I win? (y/n)
+: y
+Current Situation: s220
+green
+Current Situation: 4
+Did I win? (y/n)
+: n
+Current Situation: s220
+blue
+Current Situation: 4
+Did I win? (y/n)
+: n
+Current Situation: s220
+blue
+Current Situation: s412
+purple
+Current Situation: s690
+purple
+Did I win? (y/n)
+: 4
+Current Situation: s220
+blue
+Current Situation: s480
+green
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s210
+green
+Current Situation: s440
+red
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s420
+blue
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s420
+blue
+Current Situation: 4
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s470
+purple
+Current Situation: s670
+red
+Did I win? (y/n)
+: y
+Current Situation: s220
+blue
+Current Situation: s412
+purple
+Current Situation: s690
+purple
+Did I win? (y/n)
+: y
+Current Situation:
