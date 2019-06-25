@@ -14,3 +14,5 @@ Some collected data from actual playing with the computer can be found in `DATA.
 - Python3 (https://www.python.org/downloads/release/python-373/ is the latest version at the time of writing)
 - A computer
 - A chess board(only 9 squares used) or a DIY solution
+
+### If you want to edit and repost the project, please keep the credits
