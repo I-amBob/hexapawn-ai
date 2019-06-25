@@ -6,3 +6,6 @@ Uses Python with `random` library. Uses random guesses to choose a movement. If 
 
 # Instructions
 In the program, when you choose the situation you should format it as `s <situatuation number>` without any blank space. If the game ends before round 6, input `4` and write `y` for computer wins and `n` for huaman wins. The possible situation and its number can be found in `situations.jpg` (sorry for bad quality, I'll upload a new one).
+
+# Data
+Some collected data from actual playing with the computer can be found in `DATA.txt`. It is actual copy/paste from terminal input and output.
