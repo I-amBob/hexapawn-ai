@@ -1,3 +1,10 @@
+########################################
+#                                      #
+#    github.com/I-amBob/hexapawn-ai    #
+#   HEXAPAWN PYTHON AI COLLECTED DATA  #
+#          by Ciobanu Stefan           #
+########################################
+
 Welcome to the Chess AI
 #######################
 Do you know the rules?(y/n)
